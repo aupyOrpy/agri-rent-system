@@ -329,6 +329,17 @@ This project was built as a **group project** for the **Software Engineering** c
 | 4 | Sumit Paul | 23-53602-3 |
 | 5 | Tanni Mandal | 23-53424-3 |
 
+### 🙋 My Contribution
+
+This is a **team project**, and the work was divided among the five members. My part:
+
+- **Use Case Diagram**: modelled the Farmer, Employee and Admin actors and their use cases
+- **Class Diagram**: designed the main classes and their relationships
+- **UI/UX Design**: contributed to the screen designs in the [Figma file](https://www.figma.com/design/92rjWx3kj4qrw5pvTFe5jF/Agricultural-Equipment-Rental-And-Management-System?node-id=0-1&t=uvIhS6bg7S890HzH-1)
+- **Project Management**: contributed to task planning and tracking on the [Trello board](https://trello.com/b/OmDgi9mf/agricultural-equipment-rental-and-management-system)
+
+> Forked from the original team repository: [Samiulhasan1910/agri-rent-system](https://github.com/Samiulhasan1910/agri-rent-system)
+
 ---
 
 ## 🐛 Known Limitations
